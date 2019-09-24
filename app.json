@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Weather app using expo-react-native",
+    "githubUrl": "https://github.com/hongjoonki/weather_app"
   }
 }
